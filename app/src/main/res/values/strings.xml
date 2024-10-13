@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lab_2</string>
+    <string name="empty_input_message">Input field cannot be empty</string>
+    <string-array name="count_Options">
+        <item>Chars</item>
+        <item>Words</item>
+    </string-array>
 </resources>
